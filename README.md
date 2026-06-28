@@ -1,5 +1,11 @@
 # dockwatch-lite
 
+<!-- portfolio-card -->
+<p align="center">
+  <img src="docs/assets/project-card.svg" alt="dockwatch-lite project card" width="100%" />
+</p>
+<!-- /portfolio-card -->
+
 dockwatch-lite is a zero-dependency Python CLI for checking Docker containers on a homelab or small server.
 
 It talks directly to the Docker Unix socket, lists containers, watches container status, prints resource stats, and verifies Docker daemon connectivity without requiring the Docker Python SDK.
